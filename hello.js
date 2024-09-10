@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<html>
+class OneDialog extends HTMLElement {
+  connectedCallback() {
+    this.innerHTML = `<html>
 <head>
   <title>Red Box with Text</title>
   <style>
@@ -21,4 +23,7 @@
     box.textContent = 'Hi Noa';
   </script>
 </body>
-</html>
+</html>`;
+  }
+}
+customElements.define('one-dialog', OneDialog);
