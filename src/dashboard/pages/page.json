@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/dashboard-page.json",
+  "id": "842e3912-96fd-4e10-8d6f-15bad2b3cd87",
+  "title": "Deletion Flow for CE"
+}

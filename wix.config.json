@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/wix-config.json",
+  "appId": "378d2931-0c01-4269-9ee1-0011327a58b2",
+  "projectId": "deletion-flow-for-ce"
+}
