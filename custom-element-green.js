@@ -1,4 +1,4 @@
-class RedBox extends HTMLElement {
+class GreenBox extends HTMLElement {
   connectedCallback() {
     this.innerHTML = `
       <div class="box">
