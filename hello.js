@@ -4,7 +4,7 @@ class MyCustomElement extends HTMLElement {
       <!DOCTYPE html>
       <html>
       <head>
-      <style>
+  <style>
     .my-custom-element {
       width: 300px;
       height: 200px;
@@ -16,6 +16,7 @@ class MyCustomElement extends HTMLElement {
       padding: 20px;
       border: 1px solid #ccc;
     }
+  </style>
         <title>My Custom Element</title>
       </head>
       <body>
